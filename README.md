@@ -17,7 +17,8 @@ Lastly, the imagery is overlaid onto the created surface to give visiblity into 
 <p align="center">
   <img src="https://github.com/17njensen/Thesis-Work/blob/main/Swaths300_final.PNG" />
 </p>
-A great example of the process can be found here: [Three-dimensional image reconstruction using bundle adjustment applied to multiple texel images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9832/1/Three-dimensional-image-reconstruction-using-bundle-adjustment-applied-to-multiple/10.1117/12.2223259.full?SSO=1)
+A great example of the process can be found here: 
+- [Three-dimensional image reconstruction using bundle adjustment applied to multiple texel images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9832/1/Three-dimensional-image-reconstruction-using-bundle-adjustment-applied-to-multiple/10.1117/12.2223259.full?SSO=1)
 <h4 align="center">
   GPS-D Navigation using LiDAR/Imagery
 </h4>
