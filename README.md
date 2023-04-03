@@ -17,8 +17,8 @@ Lastly, the imagery is overlaid onto the created surface to give visiblity into 
 <p align="center">
   <img src="https://github.com/17njensen/Thesis-Work/blob/main/Swaths300_final.PNG" />
 </p>
-A great example of the process can be found here: 
-- [Three-dimensional image reconstruction using bundle adjustment applied to multiple texel images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9832/1/Three-dimensional-image-reconstruction-using-bundle-adjustment-applied-to-multiple/10.1117/12.2223259.full?SSO=1)
+Publications from CAIl of the process can be found here: [Three-dimensional image reconstruction using bundle adjustment applied to multiple texel images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9832/1/Three-dimensional-image-reconstruction-using-bundle-adjustment-applied-to-multiple/10.1117/12.2223259.full?SSO=1)
+and here: [Method for 3-D Scene Reconstruction Using Fused LiDAR and Imagery From a Texel Camera](https://www.researchgate.net/publication/334382609_Method_for_3-D_Scene_Reconstruction_Using_Fused_LiDAR_and_Imagery_From_a_Texel_Camera)
 <h4 align="center">
   GPS-D Navigation using LiDAR/Imagery
 </h4>
@@ -37,6 +37,14 @@ The results so far are as seen in the image below. This is currently a work in p
   Feature Detection
 </h4>
 
+One of the side projects that was persued for a moment, was feature detection. This involved using the LiDAR and imagery to extract information from the data captures during a recorded flight. This effort was later scrapped due to time constraints and focus on my thesis work. Some of the my efforts can be seen below:
+
+This was the extraction and differentiation of tree canopies and surrounding vegetation versus the grassy flat areas for the rest of the scan.
 <p align="center">
   <img src="https://github.com/17njensen/Thesis-Work/blob/main/feature_detection.PNG" />
+</p>
+
+This was the extraction of a road versus the vegetation surrounding the road. It can be noted that these were not perfect results, but given more time and effort, these results could be further improved. 
+<p align="center">
+  <img src="https://github.com/17njensen/Thesis-Work/blob/main/8520_variance_alg.bmp" />
 </p>
