@@ -17,7 +17,7 @@ Lastly, the imagery is overlaid onto the created surface to give visiblity into 
 <p align="center">
   <img src="https://github.com/17njensen/Thesis-Work/blob/main/Swaths300_final.PNG" />
 </p>
-Publications from CAIl of the process can be found here: [Three-dimensional image reconstruction using bundle adjustment applied to multiple texel images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9832/1/Three-dimensional-image-reconstruction-using-bundle-adjustment-applied-to-multiple/10.1117/12.2223259.full?SSO=1)
+Publications from CAIL of the process can be found here: [Three-dimensional image reconstruction using bundle adjustment applied to multiple texel images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9832/1/Three-dimensional-image-reconstruction-using-bundle-adjustment-applied-to-multiple/10.1117/12.2223259.full?SSO=1)
 and here: [Method for 3-D Scene Reconstruction Using Fused LiDAR and Imagery From a Texel Camera](https://www.researchgate.net/publication/334382609_Method_for_3-D_Scene_Reconstruction_Using_Fused_LiDAR_and_Imagery_From_a_Texel_Camera)
 <h4 align="center">
   GPS-D Navigation using LiDAR/Imagery
