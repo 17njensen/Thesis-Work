@@ -1,4 +1,4 @@
-<h1 align="center">GPS-Denied Navigation Using LiDAR/Imagery and Digital Surface Model Creation</h1>
+<h1 align="center">Digital Surface Model Creation, GPS-Denied Navigation Using LiDAR/Imagery, and Feature Extraction</h1>
 <h3 align="center">This project is my current thesis work at Utah State University, where I am pursuing my master's in Electrical engineering with a focus in signal processing for geospatial data</h3>
 
 This project is build off of the original work done at the Center of Advanced Imagery and LADAR (CAIL), involving using LiDAR and camera fusion to create digital surface models (DEM) using methods of advanced signal and image processing. This system is attached to a drone (sUAS) and the data is captured during a flight. It shall be noted that this data was captured using a low-cost LiDAR sensor, camera, and other sensors. Below is an examle of the imagery and how it is processed. 
