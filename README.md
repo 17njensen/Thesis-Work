@@ -15,7 +15,7 @@ Next, the using a method of triangulation between multiple scans and points, a w
 </p>
 Lastly, the imagery is overlaid onto the created surface to give visiblity into what data is captured. 
 <p align="center">
-  <img src="https://github.com/17njensen/Thesis-Work/blob/main/Swaths300_final.bmp" />
+  <img src="https://github.com/17njensen/Thesis-Work/blob/main/Swaths300_final.PNG" />
 </p>
 A great example of the process can be found here: [Three-dimensional image reconstruction using bundle adjustment applied to multiple texel images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9832/1/Three-dimensional-image-reconstruction-using-bundle-adjustment-applied-to-multiple/10.1117/12.2223259.full?SSO=1)
 <h4 align="center">
@@ -29,9 +29,13 @@ For the purpose of my thesis work, during this process, the addition of location
 
 The results so far are as seen in the image below. This is currently a work in progress. 
 <p align="center">
-  <img src="https://github.com/17njensen/Thesis-Work/blob/main/gpsd_block_diagram.PNG" />
+  <img src="https://github.com/17njensen/Thesis-Work/blob/main/map.png" />
 </p>
 
 <h4 align="center">
   Feature Detection
 </h4>
+
+<p align="center">
+  <img src="https://github.com/17njensen/Thesis-Work/blob/main/feature_detection.PNG" />
+</p>
