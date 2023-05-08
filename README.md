@@ -3,7 +3,7 @@
 
 This project is build off of the original work done at the Center of Advanced Imagery and LADAR (CAIL), involving using LiDAR and camera fusion to create digital surface models (DEM) using methods of advanced signal and image processing. This system is attached to a drone (sUAS) and the data is captured during a flight. It shall be noted that this data was captured using a low-cost LiDAR sensor, camera, and other sensors. Below is an examle of the imagery and how it is processed. 
 
-
+[Conference paper - CURRENTLY WAITING ON PUBLICATION]([https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286776](https://spie.org/defense-commercial-sensing/presentation/GPS-denied-navigation-using-location-estimation-and-texel-image-correction/12540-24))
 
 First, the LiDAR is captured, and projected into a world-space frame so imagery can be overlaid onto the point cloud. This image represents an example of the captured LiDAR data for a parking lot near a marina.
 <p align="center">
