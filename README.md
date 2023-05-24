@@ -22,14 +22,14 @@ and here: [Method for 3-D Scene Reconstruction Using Fused LiDAR and Imagery Fro
 <h4 align="center">
   GPS-D Navigation using LiDAR/Imagery
 </h4>
-For the purpose of my thesis work, during this process, the addition of location estimation was made. This involved taking IMU data from the device, and using the fused LiDAR and camera data for additional assistance in location estimation, due to sensor drift and low-cost accuracy. To do this, a Extended Kalman Filter is used for position estimation, as well as a gradient descent algorithm called the Levenberg-Marqurdt algorithm, that processes the estimated pose and position with the fused Imagery/LiDAR and outputs a corrected pose and position for the Extended Kalman Filter. 
+For the purpose of my thesis work, during this process, the addition of location estimation was made. This involved taking IMU data from the device, and using the fused LiDAR and camera data for additional assistance in location estimation, due to sensor drift and low-cost accuracy. Using methods of bundle adjustments, the LiDAR and imagery can predict position, with some drift. To correct for this, an Extended Kalman Filter is used for position estimation, as well as a gradient descent algorithm to correct for bundle adjustments. This then processes the estimated pose and position with the fused Imagery/LiDAR and outputs a corrected pose and position for the Extended Kalman Filter. 
 <!-- Below is the block diagram. -->
 <!-- 
 <p align="center">
   <img src="https://github.com/17njensen/Thesis-Work/blob/main/gpsd_block_diagram.PNG" />
 </p> -->
 
-The results so far are as seen in the image below. This is currently a work in progress. 
+The results so far are as seen in the image below. This is currently a work in progress. Blue and Green represent the estimated position, while Orange is the original GPS location. Green represents position estimation without the assistance of LiDAR and camera data. Blue is with said data. 
 <p align="center">
   <img src="https://github.com/17njensen/Thesis-Work/blob/main/map.png" />
 </p>
