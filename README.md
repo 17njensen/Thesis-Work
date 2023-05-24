@@ -40,12 +40,12 @@ The results so far are as seen in the image below. This is currently a work in p
 
 One of the side projects that was persued for a moment, was feature detection. This involved using the LiDAR and imagery to extract information from the data captures during a recorded flight. This effort was later scrapped due to time constraints and focus on my thesis work. Some of the my efforts can be seen below:
 
-This was the extraction and differentiation of tree canopies and surrounding vegetation (cyan) versus the grassy flat areas (blues) for the rest of the scan.
+This was the extraction and differentiation of tree canopies and surrounding vegetation (green) versus the grassy flat areas (blues) for the rest of the scan.
 <p align="center">
   <img src="https://github.com/17njensen/Thesis-Work/blob/main/feature_detection.PNG" />
 </p>
 
-This was the extraction of a road (blue) versus the vegetation surrounding the road (red). It can be noted that these were not perfect results, but given more time and effort, these results could be further improved. 
+This was the extraction of a road (cyan) versus the vegetation surrounding the road (red). It can be noted that these were not perfect results, but given more time and effort, these results could be further improved. 
 <p align="center">
   <img src="https://github.com/17njensen/Thesis-Work/blob/main/8520_variance_alg.bmp" />
 </p>
